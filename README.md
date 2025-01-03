@@ -11,10 +11,10 @@ Your feedback is welcome via the repo [Issue Tracker](https://github.com/SMPTE/s
 
 ## Public Committee Draft (PCD) Notice
 
-The following elements are made available for a public review period ending no earlier than 2024-12-15, and no later than 2025-06-15:
+The following elements are made available for a public review period ending no earlier than 2025-01-03, and no later than 2026-07-03:
 
-* [PCD SMPTE ST 2133]()
-
+* <a href="https://github.com/SMPTE/st2133/blob/main/34CS-PCD-ST-2133-Job-Processing-Architecture-2024-12-23.pdf">34CS-PCD-ST-2133-Job-Processing-Architecture-2024-12-23.pdf</a>
+* <a href="https://github.com/SMPTE/st2133/blob/main/st2133a.zip">st2133a.zip</a>
 
 ## Details
 
