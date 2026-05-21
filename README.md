@@ -1,4 +1,4 @@
-# Public CD of SMPTE ST 2133
+# SMPTE ST 2133
 
 ## General
 
@@ -9,6 +9,7 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 Your feedback is welcome via the repo [Issue Tracker](https://github.com/SMPTE/st2133/issues) or at [34cs-chair@smpte.org](mailto:34cs-chair@smpte.org).
 
+<!-- PCD-INFO:START -->
 ## Public Committee Draft (PCD) Notice
 
 The following elements are made available for a public review period ending no earlier than 2025-01-03, and no later than 2026-07-03:
@@ -27,3 +28,4 @@ We are pleased to announce the entry of SMPTE ST 2133 (Job Processing Architectu
 This document has proceeded through the SMPTE approval process up to the point of pre-Final Committee Draft review. It defines an API that provides a standardized framework, allowing the grouping of related services into reuseable units of work that can be instantiated as “jobs”.
 
 It builds upon the work of other initiatives, especially the European Broadcasting Union’s Media Cloud and Microservices (EBU’s MCMA) group. This document ultimately lays the groundwork for future work that is anticipated in the area of a Global Service Repository.
+<!-- PCD-INFO:END -->
